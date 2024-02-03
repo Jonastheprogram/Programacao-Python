@@ -6,5 +6,7 @@ while True:
     else:
        result = result + soma
        print(result)
+
+#soma todos os numeros digitados
     
     
